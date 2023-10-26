@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Consumer\Producer\bin\Debug\Producer.exe.config
+C:\Users\User\source\repos\Consumer\Producer\bin\Debug\Producer.exe
+C:\Users\User\source\repos\Consumer\Producer\bin\Debug\Producer.pdb
+C:\Users\User\source\repos\Consumer\Producer\obj\Debug\Producer.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Consumer\Producer\obj\Debug\Producer.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Consumer\Producer\obj\Debug\Producer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Consumer\Producer\obj\Debug\Producer.exe
+C:\Users\User\source\repos\Consumer\Producer\obj\Debug\Producer.pdb
